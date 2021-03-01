@@ -1,0 +1,9 @@
+{
+  "short_name": "Demo",
+  "name": "Web App Manifest Demo",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#808080",
+  "display": "standalone",
+  "theme_color": "#808080"
+}
